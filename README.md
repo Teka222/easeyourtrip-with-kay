@@ -1,18 +1,21 @@
-# EaseYourTrip by Kay
+# easeyourtrip with kay
 
-A travel planner application built using React, TailwindCSS, and the Amadeus API. This app allows users to search for flights, view details, and save trips to make travel planning easy.
+## Project Description
+easeyourtrip with kay is a travel planner app designed to simplify trip planning. It allows users to search for flights, view trip details, and plan itineraries effortlessly.
 
 ## Features
-- Search for flights by origin, destination, and date.
-- View flight details including price, duration, and stops.
+- Search for flights by destination and travel dates.
+- View detailed trip information.
 - Save trips for future reference.
+- A clean and responsive user interface built with TailwindCSS.
 
 ## Tech Stack
-- React
-- TailwindCSS
-- Amadeus API
+- **React**: Frontend framework for building the user interface.
+- **TailwindCSS**: For styling.
+- **Amadeus API**: To fetch travel and flight data.
 
-## Getting Started
+## How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Teka222/EaseYourTrip-by-Kay.git
+   git clone https://github.com/Teka222/easeyourtrip-with-kay.git
+   cd easeyourtrip-with-kay
